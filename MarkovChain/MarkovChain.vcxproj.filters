@@ -13,5 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\parserArg">
+      <UniqueIdentifier>{215b71e0-046f-4ed2-be6d-6d6bcc986416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\engine">
+      <UniqueIdentifier>{5804767d-e566-4d57-bf83-a22eb929d223}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\parserArg.cpp">
+      <Filter>Source Files\parserArg</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine.cpp">
+      <Filter>Source Files\engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\parserArg.h">
+      <Filter>Source Files\parserArg</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine.h">
+      <Filter>Source Files\engine</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
