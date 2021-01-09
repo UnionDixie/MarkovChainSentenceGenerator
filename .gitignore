@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+MarkovChain/.vs/MarkovChain/v16/Browse.VC.opendb
+MarkovChain/.vs/MarkovChain/v16/Browse.VC.db-wal
+MarkovChain/.vs/MarkovChain/v16/Browse.VC.db-shm
+MarkovChain/.vs/MarkovChain/v16/Browse.VC.db
