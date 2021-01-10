@@ -52,3 +52,5 @@ MarkovChain/Debug/MarkovChain.tlog/MarkovChain.lastbuildstate
 MarkovChain/Debug/MarkovChain.vcxproj.FileListAbsolute.txt
 MarkovChain/Debug/vc142.idb
 MarkovChain/Debug/vc142.pdb
+MarkovChain/.vs/MarkovChain/v16/ipch/AutoPCH/e76ecfdb9b474f19/ENGINE.ipch
+MarkovChain/Debug/engine.obj.enc
