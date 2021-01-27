@@ -1,9 +1,8 @@
-#include <iostream>
-#include "../src/engine.h"
+#include "engine.h"
 
 int main(int argc, char* argv[]) 
 {
-	Engine engine(argc, argv);
+	Engine engine("ru",argc, argv);//eng or + ru
 	engine.run();
 
 	return 0;
