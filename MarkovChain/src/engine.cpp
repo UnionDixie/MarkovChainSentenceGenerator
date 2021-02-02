@@ -94,7 +94,7 @@ void Engine::createSentence() {
 			int cnt = 0;//length of sentence
 			std::string start = word[rng() % word.size()];//random word
 			if (start != "*END*") {
-				print("\tSTART sentence\n");
+				print("\n\tSTART sentence\n");
 				while (find(dict[start].begin(), dict[start].end(), "NONE") == dict[start].end())//only end have none
 				{
 					print(start + " ");//print new generate word
